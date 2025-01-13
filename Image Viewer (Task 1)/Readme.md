@@ -88,9 +88,3 @@ This viewer leverages the powerful combination of PyQt5, Matplotlib, and VTK to 
 - Enhanced 3D rendering capabilities with advanced segmentation options.
 - Inclusion of measurement tools for clinical applications.
 
-## License
-
-This project is open-source and freely available for non-commercial use under the MIT license.
-
----
-Enjoy exploring and visualizing your medical image data with the Multi-Planar Viewer!
