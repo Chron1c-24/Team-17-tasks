@@ -18,7 +18,8 @@ The **Multi-Planar Viewer** is a Python-based medical imaging application that p
   - Full-screen display for a comprehensive visualization experience.
 - **Instructions Popup:**
   - Displays usage instructions on startup for first-time users.
-<img src=https://github.com/Chron1c-24/Team-17-tasks/blob/main/Image%20Viewer%20(Task%201)/Screenshot_2025-01-14_013546%5B1%5D.png alt="alt-text" width="400" height="400">  
+<img src="https://raw.githubusercontent.com/Chron1c-24/Team-17-tasks/main/Image%20Viewer%20(Task%201)/Screenshot_2025-01-14_013546%5B1%5D.png" alt="Image 1" width="600" height="400" style="display:inline; margin-right:10px;">
+<img src="https://raw.githubusercontent.com/Chron1c-24/Team-17-tasks/main/Image%20Viewer%20(Task%201)/Screenshot_2025-01-14_013439%5B1%5D.png" alt="Image 2" width="600" height="400" style="display:inline;">
 
 
 ## Prerequisites
